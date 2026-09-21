@@ -39,17 +39,6 @@ Destaco por mi habilidad para trabajar en equipos multidisciplinarios y gestiona
 
 <br/>
 
-## Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| [backend-mimoq](https://github.com/murvn77/backend-mimoq) | Backend del Sistema de Experimentación MiMoQ, con despliegue y monitoreo mediante Kubernetes, Prometheus y Grafana. | `NestJS` `TypeScript` `Kubernetes` |
-| [frontend-mimoq](https://github.com/murvn77/frontend-mimoq) | Frontend del Sistema de Experimentación MiMoQ, proyecto de tesis de grado en Ingeniería de Sistemas. | `Angular` |
-| [Sistema-de-Gestion-de-Pedidos-Java](https://github.com/murvn77/Sistema-de-Gestion-de-Pedidos-Java) | Sistema de gestión de pedidos con arquitectura de microservicios (Eureka, API Gateway, Config Server), orquestado con Docker Compose. | `Java` `Spring Boot` `Docker` |
-| [Sistema-Gestion-Pedidos-React](https://github.com/murvn77/Sistema-Gestion-Pedidos-React) | Frontend en React para el sistema de gestión de pedidos/productos. | `React` |
-
-<br/>
-
 ## GitHub Stats
 
 <p align="center">
