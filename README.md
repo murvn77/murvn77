@@ -27,7 +27,7 @@ Destaco por mi habilidad para trabajar en equipos multidisciplinarios y gestiona
 
 **Backend**
 
-<img src="https://img.shields.io/badge/-Node.js-2b2b2b?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS"/> <img src="https://img.shields.io/badge/-NestJS-2b2b2b?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/> <img src="https://img.shields.io/badge/-Java-2b2b2b?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/-Spring%20Boot-2b2b2b?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/-Python-2b2b2b?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/-Flask-2b2b2b?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/-Node.js-2b2b2b?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS"/> <img src="https://img.shields.io/badge/-NestJS-2b2b2b?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/> <img src="https://img.shields.io/badge/-Java-2b2b2b?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/-Spring%20Boot-2b2b2b?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/-Python-2b2b2b?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 
 **Bases de datos**
 
